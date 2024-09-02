@@ -1,0 +1,12 @@
+{
+    "detection_threshold": 0.3,
+    "max_boxes":200,
+    "labels": [
+      "unlabeled",
+      "person",
+      "with-helmet",
+      "with-suit",
+      "without-helmet",
+      "without-suit"
+    ]
+}
